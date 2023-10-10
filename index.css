@@ -237,7 +237,6 @@ footer{
     padding: 0.5rem;
     align-items: center;
     cursor: pointer;
-    position: fixed;
     bottom: 0px;
     margin-top: 5rem;
 }

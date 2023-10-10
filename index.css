@@ -239,6 +239,7 @@ footer{
     cursor: pointer;
     position: fixed;
     bottom: 0px;
+    margin-top: 5rem;
 }
 
 footer a{

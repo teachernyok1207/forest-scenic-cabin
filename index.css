@@ -246,6 +246,10 @@ footer a:active{
     color: #45F248;
 }
 
+footer a:link{
+    color: #45F248;
+}
+
 @media (min-width: 550px) {
     
     .menu, .exit {

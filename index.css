@@ -353,6 +353,7 @@ footer a:hover{
     
     ul.featured-cabins {
         width: 70%;
+        padding-bottom: 5vh;
     }
     
     .main-quote, .main-cite {

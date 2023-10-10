@@ -238,6 +238,14 @@ footer{
     align-items: center;
 }
 
+footer.a{
+    color: white;
+}
+
+footer.a:active{
+    color: #45F248;
+}
+
 @media (min-width: 550px) {
     
     .menu, .exit {

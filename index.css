@@ -229,6 +229,12 @@ p.test-auth {
     opacity: .1;
 }
 
+footer{
+    width: 100%;
+    background: #1A1A1A;
+    color: white;
+}
+
 @media (min-width: 550px) {
     
     .menu, .exit {

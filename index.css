@@ -236,6 +236,7 @@ footer{
     display: flex;
     padding: 0.5rem;
     align-items: center;
+    cursor: pointer;
 }
 
 footer a{
@@ -248,6 +249,11 @@ footer a:active{
 
 footer a:link{
     color: #45F248;
+}
+
+footer a:hover{
+    color: #45F248;
+    text-decoration: underline;
 }
 
 @media (min-width: 550px) {

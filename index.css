@@ -238,11 +238,11 @@ footer{
     align-items: center;
 }
 
-footer.a{
+footer a{
     color: white;
 }
 
-footer.a:active{
+footer a:active{
     color: #45F248;
 }
 

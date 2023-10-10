@@ -233,6 +233,8 @@ footer{
     width: 100%;
     background: #1A1A1A;
     color: white;
+    display: flex;
+    padding: 0.5rem;
 }
 
 @media (min-width: 550px) {
